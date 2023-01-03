@@ -1,0 +1,1 @@
+C:\Users\sichi\Desktop\rust\king\target\debug\king.exe: C:\Users\sichi\Desktop\rust\king\src\game\board.rs C:\Users\sichi\Desktop\rust\king\src\game\card.rs C:\Users\sichi\Desktop\rust\king\src\game\player.rs C:\Users\sichi\Desktop\rust\king\src\game\schedule.rs C:\Users\sichi\Desktop\rust\king\src\game.rs C:\Users\sichi\Desktop\rust\king\src\main.rs
